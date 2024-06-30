@@ -1,0 +1,22 @@
+#form{
+    max-width: 40%;
+    margin-top: 15%;
+    margin-left: 28%;
+    border: 2px solid rgba(128, 128, 128, 0.646);
+    border-radius: 10px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-right: 2%;
+    padding-left: 2%;
+    background-color: rgba(255, 255, 255, 0.5);
+    
+}
+
+body {
+    background-image: url('https://images.pexels.com/photos/1072179/pexels-photo-1072179.jpeg?auto=compress&cs=tinysrgb&w=600');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0;
+  }

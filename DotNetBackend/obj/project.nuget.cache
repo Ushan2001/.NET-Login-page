@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cUsOldoeGOaPeErDSBK45L49ML3LXbd/SfptQoXzJMEa11j2/ETNP2pEYxjWpYiYXMUtPpZPu2c1gGUeXsCZ9A==",
+  "dgSpecHash": "yPeQg2iztJyIB2uOOm5V/AfAn7a8bFCqD0UDw+K9R8+zbzNirgvDRogUbL7n5tLmQaoDmZdQZ3/7s09OsjNm0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\OneDrive\\Desktop\\.NET-Login-page\\DotNetBackend\\DotNetBackend.csproj",
+  "projectFilePath": "C:\\Users\\USER\\OneDrive\\Desktop\\.NET-Login-page-backend\\DotNetBackend\\DotNetBackend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.4\\microsoft.aspnetcore.openapi.7.0.4.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

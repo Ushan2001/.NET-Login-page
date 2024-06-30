@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\OneDrive\\Desktop\\.NET-Login-page\\DotNetBackend\\DotNetBackend.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\OneDrive\\Desktop\\.NET-Login-page-backend\\DotNetBackend\\DotNetBackend.csproj",
       "projectName": "DotNetBackend",
-      "projectPath": "C:\\Users\\USER\\OneDrive\\Desktop\\.NET-Login-page\\DotNetBackend\\DotNetBackend.csproj",
+      "projectPath": "C:\\Users\\USER\\OneDrive\\Desktop\\.NET-Login-page-backend\\DotNetBackend\\DotNetBackend.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\OneDrive\\Desktop\\.NET-Login-page\\DotNetBackend\\obj\\",
+      "outputPath": "C:\\Users\\USER\\OneDrive\\Desktop\\.NET-Login-page-backend\\DotNetBackend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
